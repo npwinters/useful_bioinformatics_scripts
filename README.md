@@ -5,7 +5,7 @@ A small collection of scripts I have found useful when performing bioinformatic 
 ```bash
 bash batch_rename_folders.sh
 ```
-Batch renames folders contained in a given directory. Relies on a tab-delimited file, indicated in the bash script, containing old_id in the first column and new_id in the second column.__
+Batch renames folders contained in a given directory. Relies on a tab-delimited file, indicated in the bash script, containing old_id in the first column and new_id in the second column.
 
 ```bash
 bash col_mean.sh {input.tsv}
